@@ -5,7 +5,7 @@
   "description": "Lydia Hillary's Portfolio API",
   "main": "server.js",
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   },
   "scripts": {
     "start": "nodemon server.js",
