@@ -1,2 +1,2 @@
 # potfolio-server
-The back-end of my portfolio
+The API of my portfolio. Built using Express.
